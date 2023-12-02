@@ -1,1 +1,1 @@
-# testivate
+# timed-cards-opening
